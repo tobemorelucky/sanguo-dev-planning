@@ -1,0 +1,10 @@
+# Public planning repository. Explicitly review each new file before adding it.
+*
+!/.gitignore
+!/README.md
+!/screenshots/
+/screenshots/*
+!/screenshots/01-total.png
+!/screenshots/02-central.png
+!/screenshots/03-guanzhong.png
+!/screenshots/07-selected-crossing.png
